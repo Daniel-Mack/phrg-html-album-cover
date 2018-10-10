@@ -20,4 +20,7 @@ This challenge asks that you recreate the album cover shown in the <a href="http
 
 ***NOTE***: Clicking the blue `Open` button on the Learn.co lesson page or running the `learn open` command in your terminal will automatically fork and clone the repository and change into the appropriate directory.
 
+## Does this need an update?
+ Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-html-album-cover/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-html-album-cover/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG HTML Album Cover</p>
